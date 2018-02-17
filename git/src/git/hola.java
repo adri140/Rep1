@@ -6,6 +6,7 @@ public class hola {
 		// TODO Auto-generated method stub
 		System.out.println("Hola"); //imprimeix per consola "hola"
 	//hola buenaaaaass 222222222222
+	//colllllllllaaaaaa
 	}
 
 }
